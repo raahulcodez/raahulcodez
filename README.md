@@ -1,6 +1,6 @@
-## Hi there, this is Raahul R 👋
+![Steganography at peak](https://github.com/user-attachments/assets/b352b422-f3af-4184-b1fc-42f0ac417997)
 
-![Purple Abstract Graphic Design LinkedIn Article Cover Image](https://github.com/user-attachments/assets/b352b422-f3af-4184-b1fc-42f0ac417997)
+## Hi there, this is Raahul R 👋
 
 - 🔭 I’m currently working on enhancing my skills in Cyber Security and Machine Learning.
 - 🌱 I’m currently learning Penetration testing
