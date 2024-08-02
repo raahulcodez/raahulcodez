@@ -1,5 +1,7 @@
 ## Hi there, this is Raahul R 👋
 
+![Purple Abstract Graphic Design LinkedIn Article Cover Image](https://github.com/user-attachments/assets/b352b422-f3af-4184-b1fc-42f0ac417997)
+
 - 🔭 I’m currently working on enhancing my skills in Cyber Security and Machine Learning.
 - 🌱 I’m currently learning Penetration testing
 - 👯 I’m looking to collaborate on various projects and internships.
