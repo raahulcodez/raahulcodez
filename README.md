@@ -1,10 +1,5 @@
 ## Hi there, this is Raahul R 👋
 
-<!--
-**raahulcodez/raahulcodez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
---!>
 - 🔭 I’m currently working on enhancing my skills in Cyber Security and Machine Learning.
 - 🌱 I’m currently learning Penetration testing
 - 👯 I’m looking to collaborate on various projects and internships.
